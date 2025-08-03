@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohammad Ariz Khan</h1>
 
 # 💫 About Me:
-A detail-oriented and results-driven Software Engineer with near 3 years of experience in Software Development, Cloud Computing and DevOps. Proficient in designing and implementing scalable solutions using a range of technologies including Azure, GCP and AWS. Demonstrated ability to lead projects, streamline processes, and drive efficiency through automation and innovative solutions. Adept at collaborating with cross-functional teams to achieve project goals and deliver high-quality results. Skilled in continuous learning and staying updated with the latest industry trends to drive cutting-edge solutions.
+A detail-oriented and results-driven Software Engineer with over 3 years of experience in Software Development, Cloud Computing and exploring AI/ML. Proficient in designing and implementing scalable solutions using a range of technologies including Azure, GCP and AWS. Demonstrated ability to lead projects, streamline processes, and drive efficiency through automation and innovative solutions. Adept at collaborating with cross-functional teams to achieve project goals and deliver high-quality results. Skilled in continuous learning and staying updated with the latest industry trends to drive cutting-edge solutions.
 
 ## 🚀 What I'm Up To
 

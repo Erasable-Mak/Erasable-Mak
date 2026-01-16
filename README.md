@@ -18,7 +18,7 @@ I'm also an open-source contributor, sharing my coding passion, and any advice o
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ariz-khan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erasable-mak/)
 
 # 💻 Tech Stack:
 Languages: 

@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-I am a detail-oriented and results-driven Software Engineer with over **3.8 years of experience** building AI-integrated, cloud-native applications. I specialize in designing backend architectures, automating workflows, and leveraging multi-cloud environments (AWS, GCP, Azure) to drive engineering efficiency. I have a strong focus on applying Large Language Models (LLMs) and RAG workflows to enhance developer productivity and system reliability.
+I am a detail-oriented and results-driven Software Engineer with nearly **4 years of experience** building AI-integrated, cloud-native applications. I specialize in designing backend architectures, automating workflows, and leveraging multi-cloud environments (AWS, GCP, Azure) to drive engineering efficiency. I have a strong focus on applying Large Language Models (LLMs) and RAG workflows to enhance developer productivity and system reliability.
 
 ## 🚀 What I'm Up To
 

@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋 I'm Mohammad Ariz Khan</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/erasable-mak/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://erasable-mak.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:khan02ariz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 # 💫 About Me
 
 I am a detail-oriented and results-driven Software Engineer with over **3.8 years of experience** building AI-integrated, cloud-native applications. I specialize in designing backend architectures, automating workflows, and leveraging multi-cloud environments (AWS, GCP, Azure) to drive engineering efficiency. I have a strong focus on applying Large Language Models (LLMs) and RAG workflows to enhance developer productivity and system reliability.
